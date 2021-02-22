@@ -1,0 +1,2 @@
+(this.webpackJsonpassembly_react=this.webpackJsonpassembly_react||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var s=n(1),c=n.n(s),r=n(3),a=n.n(r),o=n(0),b=function(){return Object(o.jsx)(o.Fragment,{})};a.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(b,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.7a4fd4df.chunk.js.map
