@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/assembly_react/static/js/main.c8c7c4fc.chunk.js",
+    "main.js.map": "/assembly_react/static/js/main.c8c7c4fc.chunk.js.map",
+    "runtime-main.js": "/assembly_react/static/js/runtime-main.ddf54cae.js",
+    "runtime-main.js.map": "/assembly_react/static/js/runtime-main.ddf54cae.js.map",
+    "static/js/2.75c97e82.chunk.js": "/assembly_react/static/js/2.75c97e82.chunk.js",
+    "static/js/2.75c97e82.chunk.js.map": "/assembly_react/static/js/2.75c97e82.chunk.js.map",
+    "index.html": "/assembly_react/index.html",
+    "static/js/2.75c97e82.chunk.js.LICENSE.txt": "/assembly_react/static/js/2.75c97e82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf54cae.js",
+    "static/js/2.75c97e82.chunk.js",
+    "static/js/main.c8c7c4fc.chunk.js"
+  ]
+}
